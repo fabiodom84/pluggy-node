@@ -7,7 +7,7 @@ export function sleep(ms: number): Promise<void> {
 /* BIG QUERY
  ===*/
 export const GOOGLE_PROJECT_ID = "pfm-mvp"
-export const GOOGLE_APPLICATION_CREDENTIALS = "C:\Projetos\pluggy-node\example\key.json"
+export const GOOGLE_APPLICATION_CREDENTIALS = "C:\Users\fabio\OneDrive\Documents\Projetos\pluggy-node\example\key.json"
 
 /* PLUGGY BANK
  ===*/
